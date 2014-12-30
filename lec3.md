@@ -1,7 +1,9 @@
 #12/29/14
 
-- `rm -rf` _remove files on github_ followed by `git commit -a -m "..."` `f` means **FALSE**
-- **ssh** _Security SHare_
+- `rm -rf` _remove files_ -f means **FORCE**
+- git remove is different command, please google it and change
+- `git commit -a -m "..."` -a means all files exclude unmodified file
+- **ssh** _Security Shell_
 - `vi` _a built-in text editor_
 - `vim` _revised vi txt editor_
 - `ctrl+r` _load previous commands_
@@ -10,7 +12,7 @@
 ##Connect to server
 
 ```
-ssh root@104.236.138.87 //server address
+ssh root@104.236.138.87 #server address
 
 ```
 
